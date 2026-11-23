@@ -92,7 +92,7 @@
     {
         "path": "/authors/rachel-m-jorgenson/index.html",
         "type": "file",
-        "md5": "80966c223328356a61e92a496605eb4e"
+        "md5": "acd0a06ac39e4e5ce366f3ca1c9e505b"
     },
     {
         "path": "authors/rachel-m-jorgenson/page",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/rachel-m-jorgenson/page/2/index.html",
         "type": "file",
-        "md5": "a92976e089800ffd67fec4a1d9a2272e"
+        "md5": "e9bacb2f08dda3c27cefd02096b4b3f5"
     },
     {
         "path": "authors/rachel-m-jorgenson/page/3",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/rachel-m-jorgenson/page/3/index.html",
         "type": "file",
-        "md5": "e569557a62b710912491fc2af8bdc960"
+        "md5": "124147e8d0d0655eab2bde4487ac1650"
     },
     {
         "path": "bringing-timeless-elegance-and-modern-comfort-into-your-living-space",
@@ -177,17 +177,17 @@
     {
         "path": "/elevating-modern-interiors-with-elegant-and-functional-furniture/index.html",
         "type": "file",
-        "md5": "a61a3d5ff9953a315dde24f836ca347f"
+        "md5": "999b86647daa38639f4f5c5ba08f358b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4fe8a57f9cd9cc69e5e7edc866dea6ca"
+        "md5": "a6bd0e5584e02af861f66ac9c2a0fb35"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fcbc91db3e2a5635b3beb43753409050"
+        "md5": "67599c3b0da147e46909179198de999f"
     },
     {
         "path": "how-to-choose-the-perfect-sofa-for-a-comfortable-and-stylish-living-room",
@@ -197,7 +197,7 @@
     {
         "path": "/how-to-choose-the-perfect-sofa-for-a-comfortable-and-stylish-living-room/index.html",
         "type": "file",
-        "md5": "a29e777e41296d987a4eb7f733cf79b5"
+        "md5": "c84a68e66caacfecd0f34e14a223e906"
     },
     {
         "path": "how-to-create-a-warm-and-sophisticated-living-room-with-timeless-furniture",
@@ -212,7 +212,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5db06bbc5aaf1ea391f4e878cc33714d"
+        "md5": "6bc2a7e1d7f759cce563e5fa156464f5"
     },
     {
         "path": "maximizing-comfort-and-style-with-modern-living-room-seating",
@@ -222,7 +222,7 @@
     {
         "path": "/maximizing-comfort-and-style-with-modern-living-room-seating/index.html",
         "type": "file",
-        "md5": "b325364ec6763ac582258de0ce195a27"
+        "md5": "8f2931ddffe9a433ae2979f6dc0ba0f6"
     },
     {
         "path": "media",
@@ -713,6 +713,86 @@
         "path": "/media/posts/15/responsive/images-2026-11-22T204938.818-xs.jpg",
         "type": "file",
         "md5": "370eb01475ba8e2ff6868faed145104f"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T221338.433-2.jpg",
+        "type": "file",
+        "md5": "34d6bf7005cf785c2c9ff5ac154374e4"
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T221338.433.jpg",
+        "type": "file",
+        "md5": "34d6bf7005cf785c2c9ff5ac154374e4"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-2xl.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-lg.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-md.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-sm.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-xl.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2-xs.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-2xl.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-lg.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-md.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-sm.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-xl.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T221338.433-xs.jpg",
+        "type": "file",
+        "md5": "3e64d2967b6accb2c508fa76a65279f3"
     },
     {
         "path": "media/posts/4",
@@ -1252,7 +1332,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "86c4809964323b21770acb4d91473ff7"
+        "md5": "af53f7538cf006b29f78ad37bbb48136"
     },
     {
         "path": "page/3",
@@ -1262,7 +1342,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "77b29e974f2d65b4d870c2bc220749cf"
+        "md5": "76ab2ca9a0bd64ce14bb492221a85753"
     },
     {
         "path": "privacy-policy",
@@ -1282,7 +1362,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1ae4822c7e8a734534dc22041a7e0011"
+        "md5": "e1f0e89c9a0996310f866e8d30a82bbb"
     },
     {
         "path": "sitemap.xsl",
@@ -1307,7 +1387,7 @@
     {
         "path": "/stylish-seating-ideas-to-enhance-comfort-and-flexibility-in-modern-interiors/index.html",
         "type": "file",
-        "md5": "8a586a8e39bb7568f91b8d95260f781c"
+        "md5": "82f810ab3291b87b9b0aa15fc8a0929b"
     },
     {
         "path": "tags",
@@ -1357,7 +1437,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "752696c19c5438e027febc965ad7e942"
+        "md5": "9fac79fe923954e35a4b8effc7418011"
     },
     {
         "path": "tags/l-shaped-sectionals",
@@ -1387,7 +1467,7 @@
     {
         "path": "/tags/modular-pit-sofas/index.html",
         "type": "file",
-        "md5": "6d2aa93b2d6a9afe41b33063411bc8cf"
+        "md5": "24ea921c3393504323a8ce84398e9d7f"
     },
     {
         "path": "tags/power-reclining-sofas",
@@ -1437,7 +1517,7 @@
     {
         "path": "/tags/sectional-and-modular-couches/index.html",
         "type": "file",
-        "md5": "2c7fa1912dd8db566998ab9bf9577eec"
+        "md5": "8d78f73bda4160916f94da1abd2a8898"
     },
     {
         "path": "tags/swivel-accent-chairs",
@@ -1488,5 +1568,15 @@
         "path": "/timeless-living-room-elegance-choosing-furniture-that-combines-comfort-and-sophistication/index.html",
         "type": "file",
         "md5": "e610639b11af033bc45b9bcad4834394"
+    },
+    {
+        "path": "transforming-your-living-room-with-comfortable-and-versatile-seating-designs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transforming-your-living-room-with-comfortable-and-versatile-seating-designs/index.html",
+        "type": "file",
+        "md5": "9aa41d0dba532a5dd4b08aa1c9b0f2ac"
     }
 ]
