@@ -92,7 +92,7 @@
     {
         "path": "/authors/rachel-m-jorgenson/index.html",
         "type": "file",
-        "md5": "acd0a06ac39e4e5ce366f3ca1c9e505b"
+        "md5": "f1598aabe04af27f4289e0b4be3bf56e"
     },
     {
         "path": "authors/rachel-m-jorgenson/page",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/rachel-m-jorgenson/page/2/index.html",
         "type": "file",
-        "md5": "e9bacb2f08dda3c27cefd02096b4b3f5"
+        "md5": "f51f50811d11bd59280824e96e532be9"
     },
     {
         "path": "authors/rachel-m-jorgenson/page/3",
@@ -117,7 +117,17 @@
     {
         "path": "/authors/rachel-m-jorgenson/page/3/index.html",
         "type": "file",
-        "md5": "124147e8d0d0655eab2bde4487ac1650"
+        "md5": "636cf524b1014533c3b2f67a40c4b149"
+    },
+    {
+        "path": "bringing-rich-color-and-timeless-elegance-into-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bringing-rich-color-and-timeless-elegance-into-living-spaces/index.html",
+        "type": "file",
+        "md5": "69afb27dee26198a2fc929c52ba2f482"
     },
     {
         "path": "bringing-timeless-elegance-and-modern-comfort-into-your-living-space",
@@ -167,7 +177,7 @@
     {
         "path": "/creating-an-elegant-living-room-with-rich-colors-and-timeless-furniture/index.html",
         "type": "file",
-        "md5": "9e701c6080077f5922d01103fb8416c2"
+        "md5": "9892f109129355faa308fc2b18bfc324"
     },
     {
         "path": "elevating-modern-interiors-with-elegant-and-functional-furniture",
@@ -182,12 +192,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a6bd0e5584e02af861f66ac9c2a0fb35"
+        "md5": "3a3c2db8916aa2eaa17755df13d44647"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "67599c3b0da147e46909179198de999f"
+        "md5": "551462d7ecc8301f876b474d52f32795"
     },
     {
         "path": "how-to-choose-the-perfect-sofa-for-a-comfortable-and-stylish-living-room",
@@ -207,12 +217,12 @@
     {
         "path": "/how-to-create-a-warm-and-sophisticated-living-room-with-timeless-furniture/index.html",
         "type": "file",
-        "md5": "d22eac731d887d61f5db4cba22df93cd"
+        "md5": "dc62c60393b18341cb540085153f0307"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6bc2a7e1d7f759cce563e5fa156464f5"
+        "md5": "ca0e9da44e57849ad5d62909288b6e22"
     },
     {
         "path": "maximizing-comfort-and-style-with-modern-living-room-seating",
@@ -795,6 +805,51 @@
         "md5": "3e64d2967b6accb2c508fa76a65279f3"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-11-25T225640.354.jpg",
+        "type": "file",
+        "md5": "5c5f575c728d82bd4dbe5a29cb751af3"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-2xl.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-lg.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-md.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-sm.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-xl.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T225640.354-xs.jpg",
+        "type": "file",
+        "md5": "2abae0c11f88b847ac729b5567a06fbe"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1332,7 +1387,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "af53f7538cf006b29f78ad37bbb48136"
+        "md5": "0e3950e2ddc77153a63d289bbae063cf"
     },
     {
         "path": "page/3",
@@ -1342,7 +1397,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "76ab2ca9a0bd64ce14bb492221a85753"
+        "md5": "9903ce85ec243cc3fbcb0ddf82c421c5"
     },
     {
         "path": "privacy-policy",
@@ -1362,7 +1417,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e1f0e89c9a0996310f866e8d30a82bbb"
+        "md5": "5253ae2e033e0571f1ea458ea5e725e5"
     },
     {
         "path": "sitemap.xsl",
@@ -1422,7 +1477,7 @@
     {
         "path": "/tags/deep-green-velvet-sofas/index.html",
         "type": "file",
-        "md5": "dd0d19f2751f33650e8761a13ec2c26b"
+        "md5": "28cfd974de076e627750a290dc8acef0"
     },
     {
         "path": "tags/ergonomic-recliners",
@@ -1437,7 +1492,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9fac79fe923954e35a4b8effc7418011"
+        "md5": "d3b7b37c165c4734a8c848a149f76714"
     },
     {
         "path": "tags/l-shaped-sectionals",
@@ -1537,7 +1592,7 @@
     {
         "path": "/tags/velvet-and-leather-sofas/index.html",
         "type": "file",
-        "md5": "1cc9e283d6bc594f252b6e6b208a0f06"
+        "md5": "a011eded048482c41d05ef4d67c364fb"
     },
     {
         "path": "tags/wingback-lounge-chairs",
@@ -1567,7 +1622,7 @@
     {
         "path": "/timeless-living-room-elegance-choosing-furniture-that-combines-comfort-and-sophistication/index.html",
         "type": "file",
-        "md5": "e610639b11af033bc45b9bcad4834394"
+        "md5": "c53c259abeb7daf0bc3c937b708bcf1f"
     },
     {
         "path": "transforming-your-living-room-with-comfortable-and-versatile-seating-designs",
@@ -1577,6 +1632,6 @@
     {
         "path": "/transforming-your-living-room-with-comfortable-and-versatile-seating-designs/index.html",
         "type": "file",
-        "md5": "9aa41d0dba532a5dd4b08aa1c9b0f2ac"
+        "md5": "7d29b5399a97a95a8f6b9accf4edbcd8"
     }
 ]
